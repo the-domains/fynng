@@ -1,7 +1,7 @@
 name: Fyn Ng
 favicon: null
-layout_spectrum: 0.5242255651392043
-typography_spectrum: 0.16514594061300159
+layout_spectrum: 1
+typography_spectrum: 0.64353
 title: Motion Designer Fyn Ng
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8567306213080883
-  lightness: 0.8900648842100054
-  saturation: 0.31301334616728127
-  rhythmicContrast: 0.7618630381766707
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
