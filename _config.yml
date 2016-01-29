@@ -1,0 +1,28 @@
+name: Fyn Ng
+favicon: null
+layout_spectrum: 0.5242255651392043
+typography_spectrum: 0.16514594061300159
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8567306213080883
+  lightness: 0.8900648842100054
+  saturation: 0.31301334616728127
+  rhythmicContrast: 0.7618630381766707
+purpose: []
